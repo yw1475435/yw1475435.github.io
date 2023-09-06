@@ -1,0 +1,18 @@
+/* まず、style.cssにこのルールを書き入れてください。 */
+
+
+#d {
+  color: red;
+}
+
+h1 {
+  background-color: greenyellow;
+}
+
+h3{
+  font: size 100px;
+}
+
+h2 {
+  background-color: lightblue;
+}
